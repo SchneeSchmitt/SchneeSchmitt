@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Guy Hacker youtube channel (real).
 - 😎 I know Minecraft Commands pretty good.
-- 🌱 I’m currently learning Python, HTML and CSS.
+- 🌱 I’m currently learning Python, HTML and CSS (real).
 - 💬 Only discord account: `Snoocomics9452#6341`.
 - 😀 I speak English, Cantonese and Chinese
 
