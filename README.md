@@ -10,4 +10,4 @@
 
 ![Snoocomics9452 GitHub stats](https://github-readme-stats.vercel.app/api?username=SnooComics9452&show_icons=true&theme=radical)
 
-[![Discord](https://discord.c99.nl/widget/theme-1/851708527638609930.png)
+![Discord](https://discord.c99.nl/widget/theme-1/851708527638609930.png)
