@@ -10,4 +10,4 @@
 
 ![Snoocomics GitHub stats](https://github-readme-stats.vercel.app/api?username=SnooComics9452&show_icons=true&theme=tokyonight)
 
-[![Discord](https://lanyard.cnrad.dev/api/851708527638609930?theme=light&bg=919fe3)](https://discord.com/users/851708527638609930)
+[![Discord](https://lanyard.cnrad.dev/api/851708527638609930?theme=light&bg=7c88c2)](https://discord.com/users/851708527638609930)
