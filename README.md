@@ -8,6 +8,6 @@
 - 💬 Only discord account: `Snoocomics9452#6341`.
 - 😀 I speak English, Cantonese and Chinese
 
-![Snoocomics GitHub stats](https://github-readme-stats.vercel.app/api?username=SnooComics9452&show_icons=true&theme=radical)
+![Snoocomics GitHub stats](https://github-readme-stats.vercel.app/api?username=SnooComics9452&show_icons=true&theme=dark)
 
 [![Discord](https://lanyard.cnrad.dev/api/851708527638609930)](https://discord.com/users/851708527638609930)
